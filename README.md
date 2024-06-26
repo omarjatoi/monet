@@ -1,4 +1,4 @@
-![water-lillies](https://github.com/omarjatoi/monet/assets/9091609/22146147-60bc-45e8-917e-83bf06994a88)
+![water-lillies](https://github.com/omarjatoi/monet/assets/9091609/67b3efb6-8907-44bf-aeb7-e1eba1981548)
 
 # Monet
 
