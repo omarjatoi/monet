@@ -13,4 +13,4 @@ The application is built using [React](https://react.dev/), [TypeScript](https:/
 
 ## License
 
-Licensed under the [MIT](https://opensource.org/license/MIT) license. See [LICENSE](./LICENSE).
+Licensed under the [MIT](https://opensource.org/license/MIT) license. See [LICENSE.md](./LICENSE.md).
